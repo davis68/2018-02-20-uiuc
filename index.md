@@ -290,7 +290,6 @@ eventbrite: "42128326960"          # optional: alphanumeric key for Eventbrite r
   <div class="row">
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <ol>
         <li>Download MobaXTerm Home Edition for Windows <a href="https://mobaxterm.mobatek.net/">installer</a>.</li>
       </ol>
